@@ -23,17 +23,6 @@ A simple Windows desktop app that turns any URL into a QR code image — no setu
 
 ---
 
-## 📂 Output Location
-
-QR code images are saved to:
-
-```
-C:\DEV 204\QR Code Generator\QRCode Files\
-```
-
-> This folder is created automatically on first run — no need to set it up manually.
-
----
 
 ## ⚠️ Notes
 
